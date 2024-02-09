@@ -1,0 +1,7 @@
+{
+  "image_path": "path/to/your/image.jpg",
+  "resolution": {
+    "width": 1920,
+    "height": 1080
+  }
+}
